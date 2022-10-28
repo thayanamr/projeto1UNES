@@ -20,3 +20,6 @@ Primeiro projeto proposto pelo curso Desenvolvimento Web Completo 2022 da Udemy.
 
 ## 🖼️ Resultado
 
+![](https://github.com/thayanamr/projeto1UNES/blob/main/index.png)
+![](https://github.com/thayanamr/projeto1UNES/blob/main/quem-somos.png)
+![](https://github.com/thayanamr/projeto1UNES/blob/main/contato.png)
